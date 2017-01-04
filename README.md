@@ -1,1 +1,1 @@
-Android app for CMSC 355.
+Android app 
